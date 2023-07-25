@@ -21,3 +21,7 @@ cd src
 ```
 python3 app.py
 ```
+ブラウザ
+```
+http://localhost:5050/
+```
